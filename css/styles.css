@@ -1,0 +1,27 @@
+.me {
+    width: 150px;
+    height: auto;
+    border: solid black 2px; 
+    border-radius: 50%;
+}
+
+.reaching {
+    width: 200pt;
+    height: auto;
+    border: solid black 2pt; 
+    margin-left: 60pt;
+}
+
+h2 {
+    background-color: black;
+    color: white;
+    color: pink;
+}
+
+h3 {
+    color: hotpink;
+}
+
+body {
+    background-color: aquamarine;
+}
