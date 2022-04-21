@@ -6,22 +6,23 @@
 }
 
 .reaching {
-    width: 200pt;
+    width: 300px;
     height: auto;
     border: solid black 2pt; 
-    margin-left: 60pt;
+    margin-left: 60px;
 }
 
 h2 {
-    background-color: black;
+    background-color: papayawhip;
     color: white;
-    color: pink;
+    color: black;
 }
 
 h3 {
-    color: hotpink;
+    color: black;
+    background-color: papayawhip;
 }
 
 body {
-    background-color: aquamarine;
+    background-color: powderblue;
 }
