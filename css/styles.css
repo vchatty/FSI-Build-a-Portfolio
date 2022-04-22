@@ -13,14 +13,19 @@
 }
 
 h2 {
-    background-color: papayawhip;
+    background-color: lightcoral;
     color: white;
     color: black;
 }
 
+h1 {
+    font-family: Arial;
+    font-style: bold;  
+}
+
 h3 {
     color: black;
-    background-color: papayawhip;
+    background-color: lightcoral;
 }
 
 body {
