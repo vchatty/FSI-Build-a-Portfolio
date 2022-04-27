@@ -14,8 +14,8 @@
 
 h2 {
     background-color: lightcoral;
-    color: white;
     color: black;
+    font-family: Arial;
 }
 
 h1 {
@@ -26,6 +26,7 @@ h1 {
 h3 {
     color: black;
     background-color: lightcoral;
+    font-family: Arial;
 }
 
 body {
